@@ -37,22 +37,7 @@ math: mathjax
 
 ---
 
-### Two Content1
-::::::::::::::: {.columns}
-::: {.column}
-- hogehoge
-- hogehoge
-:::
-
-::: {.column}
-- hogehoge
-- hogehoge
-:::
-::::::::::::::::::::::::::
-
----
-
-### Two Content2
+### Two Content
 ::::::::::::::: {.columns}
 ::: {.column}
 - hogehoge
@@ -65,3 +50,16 @@ math: mathjax
 ::::::::::::::::::::::::::
 
 ---
+
+### Two Content
+::::::::::::::: {.columns}
+::: {.column}
+- hogehoge
+- hogehoge
+:::
+
+::: {.column}
+- hogehoge
+- hogehoge
+:::
+::::::::::::::::::::::::::
