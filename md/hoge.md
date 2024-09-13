@@ -3,11 +3,9 @@ title: コンテンツのタイトル
 math: mathjax
 ---
 
-## チャプタータイトル
+# チャプタータイトル
 
----
-
-### 目次
+## 目次
 
 1. 流体の諸性質
 1. 静止流体の力学
@@ -20,13 +18,9 @@ math: mathjax
 9. 層流の理論的解析
 10. 2次元ポテンシャル流の基礎
 
----
+# チャプタータイトル2
 
-## チャプタータイトル2
-
----
-
-### コンテンツタイトル2
+## コンテンツタイトル2
 内容を書く
 
 - あああ
@@ -35,23 +29,7 @@ math: mathjax
     - ううう
       - えええ
 
----
-
-### Two Content
-::::::::::::::: {.columns}
-::: {.column}
-- hogehoge
-- hogehoge
-:::
-
-::: {.column}
-![image](images/1-1.png)
-:::
-::::::::::::::::::::::::::
-
----
-
-### Two Content
+## Two Content
 ::::::::::::::: {.columns}
 ::: {.column}
 - hogehoge
@@ -63,3 +41,12 @@ math: mathjax
 - hogehoge
 :::
 ::::::::::::::::::::::::::
+
+## Two Content
+- hogehoge
+- hogehoge
+
+![image](images/1-1.jpg)
+
+## Two Content
+aaa
